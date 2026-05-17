@@ -1,4 +1,4 @@
-Name: Label New Issues
+name: Label New Issues
 
 on: 
   issues: 
